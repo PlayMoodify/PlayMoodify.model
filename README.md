@@ -92,8 +92,3 @@ Il modello Random Forest è stato scelto come modello finale per l’utilizzo re
 
 ## Utilizzo del modello
 Modello alla base della piattaforma PlayMoodify
-
-## Contatti
-Per domande o dettagli sul modello:
-- Repository: https://github.com/PlayMoodify/PlayMoodify.model
-- Maintainer / organizzazione: PlayMoodify
