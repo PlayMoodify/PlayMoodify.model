@@ -4,9 +4,6 @@
 PlayMoodify è un progetto di Machine Learning applicato alla musica che mira a classificare l’umore di un brano musicale a partire dai suoi metadati audio, fornendo agli utenti una nuova chiave di lettura emotiva delle proprie playlist.
 A differenza dei classici sistemi di raccomandazione basati sui gusti, PlayMoodify assegna un significato emotivo alle playlist, aiutando l’utente a scegliere cosa ascoltare in base allo stato d’animo del momento.
 
-Link al repository: [PlayMoodify/PlayMoodify.model](https://github.com/PlayMoodify/PlayMoodify.model)
-
-
 ## Obiettivo del progetto
 L’obiettivo principale è costruire un sistema di classificazione in grado di:
 - Analizzare le audio features di un brano
